@@ -38,24 +38,27 @@ My job is to build your website so that it is functional and user-friendly but a
 
 ## service
 
-What i'm doing
+Areas of Experience
 
 alt = design icon
-Web design
-The most modern and high-quality design made at a professional level.
+Machine Learning
+"link to portfolio"
 
 alt = Web development icon
-Web development
-High-quality development of sites at the professional level.
+Cybersecurity 
+"link to portfolio"
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+Android/iOS Mobile apps
+"link to portfolio"
 
 alt = camera icon
-Photography
-I make high-quality photos of any category at a professional level.
+Windows/Linux Desktop apps
+"link to portfolio"
 
+alt = desig icon
+Data Science
+"link to portfolio"
 
 ## testimonials
 

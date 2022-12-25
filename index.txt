@@ -9,16 +9,16 @@ Web developer
 Show Contacts
 
 Email
-richard@example.com
+bahourabdurhman@gmail.com
 
 Phone
-+1 (213) 352-2795
++1 (615) 707-4807
 
 Birthday
-June 23, 1982
+Ayg 13, 2001
 
 Location
-Sacramento, California, USA
+Nashville, Tennessee, USA
 
 # navbar
 
